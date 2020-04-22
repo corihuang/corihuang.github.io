@@ -30,7 +30,6 @@ twitter_username: corihuang
 github_username:  corihuang
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
