@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<section class="project">
+
+  <header class="post-header">
+    {% if page.type %}
+      <h3>{{ page.type }}</h3>
+    {% endif %}
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</section>

@@ -1,7 +1,7 @@
 ---
 title: Creating An Interface to Manage Surveys
 type: product design
-layout: page
+layout: project
 
 ---
 
