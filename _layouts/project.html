@@ -15,3 +15,29 @@ layout: default
   </div>
 
 </section>
+
+<section class="more-projects">
+<!-- Check for other projects -->
+  {% if site.projects.size > 1 %}
+    <h2>Other Projects</h2>
+
+<!-- If there are other projects of the same type, display one of them at random and two other projects. -->
+    {% assign similar_projects = site.projects | where_exp:"item", "item.type == page.type and item.title != page.title" %}
+      {% if similar_projects.size > 0 %}
+        {% assign display_similar = similar_projects | sample: 1 %}
+        <p><a href="{{ display_similar.url }}">{{ display_similar.title }}</a></p>
+        {% assign other_projects = site.projects | where_exp:"item","item.type != page.type" | sample: 2 %}
+        {% for project in other_projects %}
+          <p><a href="{{ project.url }}">{{ project.title }}</a></p>
+        {% endfor %}
+      
+<!-- If there are no similar projects, display 3 other projects at random. -->
+      {% else %}
+        {% assign display_array = site.projects | where_exp:"item","item.title != page.title" | sample: 3 %}
+        {% for project in display_array %}
+          <p><a href="{{ project.url }}">{{ project.title }}</a></p>
+        {% endfor %}
+      {% endif %}
+  {% endif %}
+
+</section>

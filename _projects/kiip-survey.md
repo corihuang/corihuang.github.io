@@ -2,7 +2,66 @@
 title: Creating An Interface to Manage Surveys
 type: product design
 layout: project
-
 ---
 
 The Kiip team needed a better way to handle surveys, so I helped launch a dashboard tool to manage them.
+
+---
+## Consumer-facing survey UI
+
+The Kiip team uses the survey management tool to create, run and organize surveys on the Kiip network, collecting over 17 million non-incentivized responses in its first year. The resulting data provides key audience insights to guide the business as well as a valuable data revenue stream.
+
+## The Context and Problem
+Like other companies, the nature of Kiip’s business involves collecting user data, but aside from collecting usage data, the company also runs surveys to actively gain user insights. The interesting thing is that Kiip’s surveys have a remarkably high response rate, so the team wanted to increase the survey run rate.
+
+At this point there was no interface for survey management; each survey was manually implemented and managed by an engineer. Obviously, there needed to be a better way to manage the many surveys.
+
+At this point there was no interface for survey management; each survey was manually implemented and managed by an engineer.
+
+##The Goal
+The end goal was to have a tool accessible via Kiip’s admin dashboard that a team member could use to create and run a new survey and manage existing surveys.
+
+My role was to collaborate on information architecture, develop the user flow and visualize the management tool interface.
+
+## Constraints
+In defining requirements and scope, we wanted to reach the main objectives while being able to ship something fairly quickly. Since the value of the survey data lies in the insights gleaned, it was important to control how survey question and answer data was input. We also contained the tool to just its core functionality by limiting editing capabilities and advanced features.
+
+Visually, the tool was part of a larger dashboard, so I respected existing UI components and tried to maintain visual continuity.
+
+## Research and Questions
+Being an internal tool, the main users would be Kiip employees. We could assume a certain level of knowledge about dashboard functionality, and we set up discussions with the team to review the product throughout the process.
+
+Through team discussions, we explored questions including but not limited to:
+- What information do you need to create a survey? What metadata do you need to be able to meaningfully parse the data collected?
+- Do surveys automatically start and end? What determines the survey flight?
+- How do we prevent duplicate questions with slightly different wording?
+- What if someone wants to run the same question in a different survey? How do they duplicate it?
+- Can you make any changes once the survey starts?
+
+## Exploring Solutions
+Early one-page ideas
+
+At first, I explored user flows that could be contained on one page because I wanted the tool to feel simple and transparent. However, in walking through the user flow with the team, we quickly realized it needed to be structured into two parts, which I think provides more clarity to the user and better aligns with our goal to control data input.
+
+The two parts allowed the user to:
+
+# View and manage existing surveys
+I visualized this as an overview page with an accordion of all the surveys. There was a lot of data that needed to be organized on this screen so the user could see the most important information right away.
+
+The overview page
+
+The top level showed the survey name, active or inactive status, number of responses, tags and dates. In the expanded view, the user would be able to see a small preview of the survey with questions visible and targeting options, along with the top level info.
+
+## Create new surveys
+To address the concern with data entry and organization, we broke down the survey creation into 3 sections:
+- A create new survey form
+- A question database that tracked question and answer option sets
+- A create new question form
+The 3 parts of the survey creation form
+
+## Looking Back and Forward
+Looking back, I can think of at least two possible improvements for next iterations. More editing functionality is needed, and the survey flight trigger could be reviewed: we used start and end dates, which make sense for seasonal surveys, but some surveys might benefit from requiring a minimum number of responses.
+
+Looking forward, adding more customization and data manipulation features would make the survey tool more robust and useful. Just to name one example, the overview page would benefit from more sort and filter options. How many surveys are about the holidays? About shopping? About sports? There are tags on every survey could be better utilized.
+
+Overall the product shipped successfully and has been used to collect over 17 million non-incentivized responses in its first year. Its results have been featured by *eMarketer*, *Bustle*, and *TechCrunch*.
