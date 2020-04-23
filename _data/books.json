@@ -1,0 +1,66 @@
+{
+ "items": [
+  {
+   "volumeInfo": {
+    "title": "Severance",
+    "authors": [
+     "Ling Ma"
+    ],
+    "description": "Maybe it’s the end of the world, but not for Candace Chen, a millennial, first-generation American and office drone meandering her way into adulthood in Ling Ma’s offbeat, wryly funny, apocalyptic satire, Severance. Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine. With the recent passing of her Chinese immigrant parents, she’s had her fill of uncertainty. She’s content just to carry on: She goes to work, troubleshoots the teen-targeted Gemstone Bible, watches movies in a Greenpoint basement with her boyfriend. So Candace barely notices when a plague of biblical proportions sweeps New York. Then Shen Fever spreads. Families flee. Companies halt operations. The subways squeak to a halt. Her bosses enlist her as part of a dwindling skeleton crew with a big end-date payoff. Soon entirely alone, still unfevered, she photographs the eerie, abandoned city as the anonymous blogger NY Ghost. Candace won’t be able to make it on her own forever, though. Enter a group of survivors, led by the power-hungry IT tech Bob. They’re traveling to a place called the Facility, where, Bob promises, they will have everything they need to start society anew. But Candace is carrying a secret she knows Bob will exploit. Should she escape from her rescuers? A send-up and takedown of the rituals, routines, and missed opportunities of contemporary life, Ling Ma’s Severance is a moving family story, a quirky coming-of-adulthood tale, and a hilarious, deadpan satire. Most important, it’s a heartfelt tribute to the connections that drive us to do more than survive.",
+    "industryIdentifiers": [
+     {
+      "identifier": "9780374261597"
+     },
+     {
+      "identifier": "0374261598"
+     }
+    ],
+    "imageLinks": {
+     "thumbnail": "http://books.google.com/books/content?id=pIhhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+   }
+  },
+  {
+   "volumeInfo": {
+    "title": "The Phoenix Project",
+    "authors": [
+     "Gene Kim",
+     "Kevin Behr",
+     "George Spafford"
+    ],
+    "description": "Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO. The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced. With the help of a prospective board member and his mysterious philosophy of The Three Ways, Bill starts to see that IT work has more in common with manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow streamline interdepartmental communications, and effectively serve the other business functions at Parts Unlimited. In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.",
+    "industryIdentifiers": [
+     {
+      "identifier": "0988262592"
+     },
+     {
+      "identifier": "9780988262591"
+     }
+    ],
+    "imageLinks": {
+     "thumbnail": "http://books.google.com/books/content?id=ud8yswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+   }
+  },
+  {
+   "volumeInfo": {
+    "title": "The City of Brass",
+    "authors": [
+     "S. A. Chakraborty"
+    ],
+    "description": "\"An extravagant feast of a book—spicy and bloody, dizzyingly magical, and still, somehow, utterly believable.\" –Laini Taylor, New York Times bestselling author of Strange the Dreamer Step into The City of Brass, the spellbinding debut from S. A. Chakraborty, an imaginative alchemy of The Golem and the Jinni, The Grace of Kings, and Uprooted, in which the future of a magical Middle Eastern kingdom rests in the hands of a clever and defiant young con artist with miraculous healing gifts. Nahri has never believed in magic. Certainly, she has power; on the streets of eighteenth-century Cairo, she’s a con woman of unsurpassed talent. But she knows better than anyone that the trades she uses to get by—palm readings, zars, and a mysterious gift for healing—are all tricks, both the means to the delightful end of swindling Ottoman nobles and a reliable way to survive. But when Nahri accidentally summons Dara, an equally sly, darkly mysterious djinn warrior, to her side during one of her cons, she’s forced to reconsider her beliefs. For Dara tells Nahri an extraordinary tale: across hot, windswept sands teeming with creatures of fire and rivers where the mythical marid sleep, past ruins of once-magnificent human metropolises and mountains where the circling birds of prey are more than what they seem, lies Daevabad, the legendary city of brass—a city to which Nahri is irrevocably bound. In Daevabad, within gilded brass walls laced with enchantments and behind the six gates of the six djinn tribes, old resentments run deep. And when Nahri decides to enter this world, her arrival threatens to ignite a war that has been simmering for centuries. Spurning Dara’s warning of the treachery surrounding her, she embarks on a hesitant friendship with Alizayd, an idealistic prince who dreams of revolutionizing his father’s corrupt regime. All too soon, Nahri learns that true power is fierce and brutal. That magic cannot shield her from the dangerous web of court politics. That even the cleverest of schemes can have deadly consequences. After all, there is a reason they say to be careful what you wish for . . .",
+    "industryIdentifiers": [
+     {
+      "identifier": "0062678108"
+     },
+     {
+      "identifier": "9780062678102"
+     }
+    ],
+    "imageLinks": {
+     "thumbnail": "http://books.google.com/books/content?id=QPBbAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+   }
+  }
+ ]
+}
