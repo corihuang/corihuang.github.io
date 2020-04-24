@@ -51,7 +51,9 @@ layout: default
         <div class="gallery-list">
           {% for image in coll.files %}
             <div class="gallery-item">
-              <img src="gallery/{{ image.name }}" />
+              <a href="gallery/{{ image.name }}" data-lightbox="gallery">
+                <img src="gallery/{{ image.name }}" />
+              </a>
             </div>
           {% endfor %}
         </div>
@@ -60,3 +62,5 @@ layout: default
   {% endfor %}
 
 </div>
+
+<script src="assets/lightbox-plus-jquery.js"></script>
