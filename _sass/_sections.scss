@@ -1,0 +1,28 @@
+/**
+ * Homepage sections
+**/
+
+.projects {
+
+}
+
+
+.gallery {
+
+}
+
+ul.gallery-list {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: auto;
+  column-gap: 16px;
+  row-gap: 16px;
+  margin: 0;
+  li {
+    list-style: none;
+    align-self: stretch;
+  }
+  img {
+    align-self: stretch;
+  }
+}

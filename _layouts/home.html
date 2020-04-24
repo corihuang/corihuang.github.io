@@ -32,7 +32,7 @@ layout: default
   {%- endif -%} -->
 
   {%- if site.projects -%}
-    <div class="projects">
+    <section class="projects">
       <h2>Projects</h2>
       <ul class="proj-list">
         {%- for proj in site.projects -%}
@@ -41,20 +41,20 @@ layout: default
           </li>
         {%- endfor -%}
       </ul>
-    </div>
+    </section>
   {%- endif -%}
 
   {% for coll in site.collections %}
     {% if coll.label == "gallery" %}
-      <div class="gallery">
+      <section class="gallery">
         <h2>Gallery</h2>
         <ul class="gallery-list">
           {% for image in coll.files %}
-            <li style="list-style: none;"><img src="gallery/{{ image.name }}" />
+            <li><img src="gallery/{{ image.name }}" />
             </li>
           {% endfor %}
         </ul>
-      </div>
+      </section>
     {% endif %}
   {% endfor %}
 

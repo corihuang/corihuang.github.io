@@ -8,12 +8,14 @@ title: Website To Do List
 * Something cool for the book list?
 
 ## Styling
-* Style gallery section
-* Style project list
-* Style hero area
+* ~~Style gallery section grid~~
+* Fix gallery section row heights
+* Layout project list
+* Position hero area
 * Style booklist
 * Add onload animation
 * Add out animation for navigation between pages?
+* Determine color palette
 
 # Content
 * too many things
