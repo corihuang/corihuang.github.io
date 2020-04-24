@@ -48,12 +48,13 @@ layout: default
     {% if coll.label == "gallery" %}
       <section class="gallery">
         <h2>Gallery</h2>
-        <ul class="gallery-list">
+        <div class="gallery-list">
           {% for image in coll.files %}
-            <li><img src="gallery/{{ image.name }}" />
-            </li>
+            <div class="gallery-item">
+              <img src="gallery/{{ image.name }}" />
+            </div>
           {% endfor %}
-        </ul>
+        </div>
       </section>
     {% endif %}
   {% endfor %}
