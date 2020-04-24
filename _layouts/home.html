@@ -51,7 +51,9 @@ layout: default
         <div class="gallery-list">
           {% for image in coll.files %}
             <div class="gallery-item">
-              <img src="gallery/{{ image.name }}" />
+              <a href="gallery/{{ image.name }}">
+                <img src="gallery/{{ image.name }}" />
+              </a>
             </div>
           {% endfor %}
         </div>
@@ -60,3 +62,7 @@ layout: default
   {% endfor %}
 
 </div>
+
+<script>
+  new SimpleLightbox({elements: '.gallery-list a'});
+</script>
