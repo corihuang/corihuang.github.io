@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+# I'm a visual designer who likes to make digital experiences easy to use and easy to understand. Figuring out the right thing to design and making it work for the team.

@@ -4,7 +4,7 @@ title: Website To Do List
 ---
 
 ## Functionality
-* Gallery images link to lightbox for large view
+* ~~Gallery images link to lightbox for large view~~
 * Something cool for the book list?
 
 ## Styling
@@ -18,4 +18,8 @@ title: Website To Do List
 * Determine color palette
 
 # Content
-* too many things
+* Write hero area heading
+* write front end/design collab post
+* write button marketing site revamp post - focus company pages
+* Gather gallery images: button brands hero illo, button segmentation illustration, 
+* Roughly resize and compress images
