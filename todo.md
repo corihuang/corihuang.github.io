@@ -10,7 +10,7 @@ title: Website To Do List
 ## Styling
 * ~~Style gallery section grid~~
 * ~~Fix gallery section row heights~~
-* Layout project list
+* ~~Layout project list~~
 * Position hero area
 * Style booklist
 * Add onload animation

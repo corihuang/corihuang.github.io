@@ -2,13 +2,17 @@
  * Homepage sections
 **/
 
-.projects {
-
+section {
+  margin-top: $spacing-large;
 }
 
-
-.gallery {
-
+.proj-list {
+  list-style: none;
+  margin: 0;
+  .proj-type {
+    text-transform: uppercase;
+    letter-spacing: .5px;
+  }
 }
 
 .gallery-list {
@@ -19,11 +23,24 @@
   margin: 0;
   .gallery-item {
     overflow: hidden;
+    transition: filter .25s ease;
+    &:active {
+      filter: brightness(.8);
+    }
   }
   img {
     object-fit: cover;
     height: 100%;
     width: 100%;
     border-radius: 4px;
+    transition: transform .25s ease-in-out;
+    &:hover {
+      transform: scale(1.03);
+    }
+  }
+}
+@include media-query($on-palm) {
+  .gallery-list {
+    grid-template-columns: 1fr 1fr;
   }
 }
