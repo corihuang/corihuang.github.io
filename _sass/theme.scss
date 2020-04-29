@@ -1,8 +1,10 @@
 @charset "utf-8";
+@import url("https://use.typekit.net/wxi1fsv.css");
+
 
 // Define tokens
 $spacing: 16px;
-$spacing-medium: $spacing *2;
+$spacing-medium: $spacing * 2;
 $spacing-large: $spacing * 4;
 $radius-default: 4px;
 
@@ -17,11 +19,13 @@ $carbon: #222;
 
 // Define defaults for each variable.
 
-$base-font-family: "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$base-font-family: ff-tisa-web-pro, "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
+
+$font-decorative: din-condensed, Arial, Helvetica, sans-serif;
 
 $spacing-unit:     30px !default;
 
