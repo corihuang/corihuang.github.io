@@ -2,6 +2,7 @@
 title: Design and Front-End Collaboration
 type: designops
 layout: project
+date: 2020-01-01
 ---
 
 Making time to make collaboration work.
