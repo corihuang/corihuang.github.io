@@ -2,26 +2,67 @@
 title: Migrating A Small Team to Figma
 type: designops
 layout: project
+date: 2019-04-01
 ---
 
-We knew we could work better, but we weren't sure how.
+We knew we could work better, but we didn't know how to make the shift together.
 
 ---
+
+#### Outline
+- context
+- instigating event - why?
+- costs and benefits: this mostly exists already
+- what I did, the how
+- outcome
+
 
 ## Context
+Back in early 2019, there were four of us on the Button design team, and we'd all started within a year. As a young team, we were still figuring out how to stay in sync even though we were decentralized. We were each embedded on a different product team, and were using Sketch, InVision, and Abstract (and Dropbox as we never fully shook it) as our tool kit to design, prototype, and collaborate.
+
+We knew we wanted to centralize the design system work that we'd already started, but being decentralized and not having an easy way to check out each other's work meant we often didn't know where files were or the best way to share things. Not to mention the bus factor on every project was 0; we couldn't easily hand off work to each other.
+
+Moving a team from one tool stack to another doesn't happen overnight. I took on this project because I wanted our team to be able to create a usable, valuable design system, and through it, I had the opportunity to do a bit of internal user research, manage a big team change, and develop a plan to educate and bring the entire company along. I also got pretty good at pitching Figma ;)
+
+
+## Costs and Benefits
+Figma at this time was gaining steam. It had been tried enough that it was a viable option, and there's no shortage of folks singing its praises online. But like every team, the Button design team had to weigh the benefits with the costs.
+
+This would be a major break for us in file history, and the new figma file format was a little odd. What if we didn't want to use Figma after a year? How difficult is it to take your stuff out of the Figma ecosystem?
+
+Then there's the literal cost. This part was the easiest, really. We were going from paying per user for InVision Enterprise, Sketch licenses, and  Abstract licenses to paying per user for Figma for Organizations. We would save about
+
+---
 
 Prior to this proposal, the design team used Sketch, InVision, and Abstract as our toolkit to design, prototype, and collaborate. In an effort to design more cohesively as a team and enable scalable design practices and components, we began evaluating tools that would also support a shared design system, including InVision DSM.
 
 The ideal toolkit setup enables the design team to easily share design assets, components, styles, and documentation to magnify the value of each of our design outputs. Additionally, we require prototyping and collaboration capabilities to show how our designs work, gather feedback from stakeholders, and share design specs. Figma is the tool that best suits these needs. More details on the tool comparisons can be found in Tools and Medium Notes.
 
-### Why?
-- Consolidating services
-- Better design system support - centralized design assets pushed out to everyone
+### The Benefits
+The benefits of moving to Figma, especially for small teams, is well document on the internet.
+- Consolidating services and files
+We finally had one place to look for all our files and it was always in sync. With Sketch and Abstract, there's a multi-step process for working on any file.
+- Better design system support
+Centralized design assets pushed out to everyone made it easy. During my search, I also brough on Zeroheight as our design system documentation tool. It integrates with Figma so that you don't need to export/import artifacts--it pulls components directly from Figma.
 - Real time collaboration
+For everyone. Nothing wrong with InVision for stakeholder reviews, but 
 - Support for the same features as existing design toolkit
-- Figma value prop deck
 
-## Migration Steps
+## How Do You Actually Do the Thing?
+As I mentioned, there are lots of posts online about why to switch to Figma and some posts about what to expect when switching to Figma. What's missing is, if you're a designer on a design team, how to do actually go about getting everyone to switch? I think this is a hugely important part of working on a team, in an organization. As Button was scaling through 2019, it was clear there was a lot of thoughtfulness put into how to grow--how do you bring everyone along with you so that you don't have superstar performers, but a superstar team?
+
+The things people don't talk about:
+- Do your homework
+This part is user research to make sure Figma is actually solving the problems your team thinks it has, and make sure you're not creating new problems for other folks who might have depended on your old tools. Pay attention when people ask questions about the tool. What happens to the old files? What do we do if x?
+- Know the costs
+Changing the way you do things means there will be some things left behind. Sometimes, that cost is worth it; it's a trade off. If you're in a small startup, get good at sharing your opinion. For example, there's going to be a big chunk of work to migrate your files into Figma. That's a one-time task though, and I thought it was worth it. We would lose access to our old InVision prototypes--what happens if we need them at some point? My reasoning was it would only happen a handful of times because most of those prototypes were just that, prototypes. Either the thing got built and we moved on and made even more improvements, or it was pitched in a meeting that either went well or not. If someone needs it, we can rebuild it. If you're not in a leadership position, then these are the things your bring to your manager or design lead, whoever needs to be able to defend the decision.
+- Bring everyone along
+The design team is on board. Great! Full steam ahead--wait, actually all the engineers need to know some basics. Do the engineering leads and managers know this migration is going to happen? Speaking of, what about all the stakeholders from product, marketing, or even sales and leadership who you might need to involve? How long do these folks have to wrap up any projects where they might need access to the old tools?
+- Document stuff
+At some point, it's just not practice to answer every single person's question. You need to get some basic info into your company wiki or whatever platform your use to share knowledge. 
+
+If you're like me, you end up making a spreadsheet with all the tasks, owners, and ticket links :) 
+
 | Task                                                                                                                                | Owner       | Outcome/notes                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Service sign up                                                                                                                     |             | complete by July 31                                                                                                                                                                                                                                                                                                                   |

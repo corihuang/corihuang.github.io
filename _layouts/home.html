@@ -32,12 +32,12 @@ layout: default
   {%- endif -%} -->
 
   {%- if site.projects -%}
-    <section class="projects">
+    <section id="projects">
       <h2>Projects</h2>
       <ul class="proj-list">
         {%- for proj in site.projects -%}
-          <li><span>{{ proj.type }}</span>
-            <a href="{{ proj.url }}"><h2>{{ proj.title }}</h2></a>
+          <li><span class="proj-type">{{ proj.type }}</span>
+            <h2><a href="{{ proj.url }}">{{ proj.title }}</a></h2>
           </li>
         {%- endfor -%}
       </ul>
@@ -46,12 +46,14 @@ layout: default
 
   {% for coll in site.collections %}
     {% if coll.label == "gallery" %}
-      <section class="gallery">
+      <section id="gallery">
         <h2>Gallery</h2>
         <div class="gallery-list">
           {% for image in coll.files %}
             <div class="gallery-item">
-              <img src="gallery/{{ image.name }}" />
+              <a href="gallery/{{ image.name }}">
+                <img src="gallery/{{ image.name }}" />
+              </a>
             </div>
           {% endfor %}
         </div>
@@ -60,3 +62,7 @@ layout: default
   {% endfor %}
 
 </div>
+
+<script>
+  new SimpleLightbox({elements: '.gallery-list a'});
+</script>

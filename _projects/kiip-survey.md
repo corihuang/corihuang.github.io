@@ -2,6 +2,7 @@
 title: Creating An Interface to Manage Surveys
 type: product design
 layout: project
+date: 2017-03-01
 ---
 
 The Kiip team needed a better way to handle surveys, so I helped launch a dashboard tool to manage them.
