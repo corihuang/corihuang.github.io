@@ -12,8 +12,9 @@
 }
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  @include relative-font-size(2);
+  font-family: $fontstack-decorative;
+  font-weight: $base-font-weight;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;

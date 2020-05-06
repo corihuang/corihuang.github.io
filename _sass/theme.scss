@@ -8,6 +8,9 @@ $spacing-medium: $spacing * 2;
 $spacing-large: $spacing * 4;
 $radius-default: 4px;
 
+$depth-default: 0px 2px 6px rgba(0,0,0,.15);
+$depth-raised: 1px 3px 10px rgba(0,0,0,1);
+
 $gradient: linear-gradient(90deg, rgba(0,47,10,1) 0%, rgba(34,163,90,1) 100%);
 $evergreen: #125B32;
 
@@ -16,16 +19,21 @@ $medium-gray: #ececee;
 $smoke: #4a4a4d;
 $carbon: #222;
 
+$tracking-slim: .25px;
+$tracking-medium: .5px;
+$tracking-spacey: 1px;
+
 
 // Define defaults for each variable.
 
-$base-font-family: ff-tisa-web-pro, "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$base-font-family: lato, -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$font-decorative: din-condensed, Arial, Helvetica, sans-serif;
+$fontstack-base: lato, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$fontstack-decorative: p22-mackinac-pro, freight-text-pro, ff-tisa-web-pro, Garamond, Georgia, serif;
 
 $spacing-unit:     30px !default;
 

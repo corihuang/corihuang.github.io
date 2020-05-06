@@ -2,12 +2,17 @@
 title: Creating An Interface to Manage Surveys
 type: product design
 layout: project
-date: 2017-03-01
+date: 2016-03-01
 ---
 
 The Kiip team needed a better way to handle surveys, so I helped launch a dashboard tool to manage them.
 
 ---
+## Outline
+- What: Looking to better understand mobile users' behavior. MVP version used hard coded surveys, with marketing handling the survey content and an engineering implementing and manually pulling data. How could we scale this feature?
+- So What: Being able to roll out at scale would enable Kiip run various surveys to gain mobile user behavioral insights at scale so that Kiip could help partners spend their marketing dollars more efficiently
+- Then What: figured out constraints based on our database setup and project scope. based on the existing user-facing survey, ensured the internal tool enabled all the necessary functionality, and had space to add additional question/survey types for future iterations.
+
 ## Consumer-facing survey UI
 
 The Kiip team uses the survey management tool to create, run and organize surveys on the Kiip network, collecting over 17 million non-incentivized responses in its first year. The resulting data provides key audience insights to guide the business as well as a valuable data revenue stream.
@@ -65,4 +70,4 @@ Looking back, I can think of at least two possible improvements for next iterati
 
 Looking forward, adding more customization and data manipulation features would make the survey tool more robust and useful. Just to name one example, the overview page would benefit from more sort and filter options. How many surveys are about the holidays? About shopping? About sports? There are tags on every survey could be better utilized.
 
-Overall the product shipped successfully and has been used to collect over 17 million non-incentivized responses in its first year. Its results have been featured by *eMarketer*, *Bustle*, and *TechCrunch*.
+Overall, product collected 20 million non-incentivized responses in its first year. It's been featured in [*eMarketer*](https://www.emarketer.com/Article/Where-Will-Mobile-Users-Shopping-this-Holiday/1014485), [*Bustle*](https://www.bustle.com/p/how-you-should-spend-your-tax-refund-according-to-experts-50931), and *TechCrunch*.

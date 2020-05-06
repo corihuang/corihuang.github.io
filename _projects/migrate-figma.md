@@ -3,6 +3,7 @@ title: Migrating A Small Team to Figma
 type: designops
 layout: project
 date: 2019-04-01
+thumbnail: 
 ---
 
 We knew we could work better, but we didn't know how to make the shift together.
@@ -10,6 +11,9 @@ We knew we could work better, but we didn't know how to make the shift together.
 ---
 
 #### Outline
+- what: migrated team to figma
+- so what: this centralized resources/assets, enabled us to work on a design system together despite being a decentralized team, reduced number of apps we were using
+- then what: project plan to migrate successfully
 - context
 - instigating event - why?
 - costs and benefits: this mostly exists already
@@ -22,19 +26,12 @@ Back in early 2019, there were four of us on the Button design team, and we'd al
 
 We knew we wanted to centralize the design system work that we'd already started, but being decentralized and not having an easy way to check out each other's work meant we often didn't know where files were or the best way to share things. Not to mention the bus factor on every project was 0; we couldn't easily hand off work to each other.
 
-Moving a team from one tool stack to another doesn't happen overnight. I took on this project because I wanted our team to be able to create a usable, valuable design system, and through it, I had the opportunity to do a bit of internal user research, manage a big team change, and develop a plan to educate and bring the entire company along. I also got pretty good at pitching Figma ;)
-
-
 ## Costs and Benefits
 Figma at this time was gaining steam. It had been tried enough that it was a viable option, and there's no shortage of folks singing its praises online. But like every team, the Button design team had to weigh the benefits with the costs.
 
 This would be a major break for us in file history, and the new figma file format was a little odd. What if we didn't want to use Figma after a year? How difficult is it to take your stuff out of the Figma ecosystem?
 
 Then there's the literal cost. This part was the easiest, really. We were going from paying per user for InVision Enterprise, Sketch licenses, and  Abstract licenses to paying per user for Figma for Organizations. We would save about
-
----
-
-Prior to this proposal, the design team used Sketch, InVision, and Abstract as our toolkit to design, prototype, and collaborate. In an effort to design more cohesively as a team and enable scalable design practices and components, we began evaluating tools that would also support a shared design system, including InVision DSM.
 
 The ideal toolkit setup enables the design team to easily share design assets, components, styles, and documentation to magnify the value of each of our design outputs. Additionally, we require prototyping and collaboration capabilities to show how our designs work, gather feedback from stakeholders, and share design specs. Figma is the tool that best suits these needs. More details on the tool comparisons can be found in Tools and Medium Notes.
 
@@ -49,6 +46,8 @@ For everyone. Nothing wrong with InVision for stakeholder reviews, but
 - Support for the same features as existing design toolkit
 
 ## How Do You Actually Do the Thing?
+Moving a team from one tool stack to another doesn't happen overnight. I took on this project because I wanted our team to be able to create a usable, valuable design system, and through it, I had the opportunity to do a bit of internal user research, manage a big team change, and develop a plan to educate and bring the entire company along. I also got pretty good at pitching Figma ;)
+
 As I mentioned, there are lots of posts online about why to switch to Figma and some posts about what to expect when switching to Figma. What's missing is, if you're a designer on a design team, how to do actually go about getting everyone to switch? I think this is a hugely important part of working on a team, in an organization. As Button was scaling through 2019, it was clear there was a lot of thoughtfulness put into how to grow--how do you bring everyone along with you so that you don't have superstar performers, but a superstar team?
 
 The things people don't talk about:
