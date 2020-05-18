@@ -22,8 +22,8 @@ layout: default
     <h2>Other Projects</h2>
     <div class="more-projects-list">
 
-<!-- If there are other projects of the same type, display one of them at random and two other projects. -->
-    {% assign similar_projects = site.projects | where_exp:"item", "item.type == page.type and item.title != page.title" %}
+    <!-- If there are other projects of the same type, display one of them at random and two other projects. -->
+    {% assign similar_projects = site.projects | where_exp:"item", "item.type == page.type" and "item.title != page.title" %}
       {% if similar_projects.size > 0 %}
         {% assign display_similar = similar_projects | sample: 1 %}
           <div><h3><a href="{{ display_similar.url }}">{{ display_similar.title }}</a></h3></div>
@@ -32,7 +32,7 @@ layout: default
           <div><h3><a href="{{ project.url }}">{{ project.title }}</a></h3></div>
         {% endfor %}
       
-<!-- If there are no similar projects, display 3 other projects at random. -->
+    <!-- If there are no similar projects, display 3 other projects at random. -->
       {% else %}
         {% assign display_array = site.projects | where_exp:"item","item.title != page.title" | sample: 3 %}
         {% for project in display_array %}

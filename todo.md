@@ -18,8 +18,8 @@ title: Website To Do List
 * Determine color palette
 
 # Content
-* Write hero area heading
+* ~~Write hero area heading~~
 * write front end/design collab post
-* write button marketing site revamp post - focus company pages
+* write button marketing site revamp post
 * Gather gallery images: button brands hero illo, button segmentation illustration, 
 * Roughly resize and compress images
