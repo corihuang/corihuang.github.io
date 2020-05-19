@@ -1,4 +1,4 @@
-# purple octopus
-I like building websites, writing, and designing.
+# Cori Huang
+This is my website and playground.
 
-Here, I'm exploring.
+Right now, I'm using [https://www.jekyllrb.com](Jekyll), [https://dbrekalo.github.io/simpleLightbox/](Simple Lightbox), and the Google Books API.
