@@ -5,6 +5,7 @@ title: Website To Do List
 
 # Functionality
 * ~~Gallery images link to lightbox for large view~~
+* fork simple lightbox to make it support touch/swipe?
 
 # Styling
 * ~~Style gallery section grid~~
