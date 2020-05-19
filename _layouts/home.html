@@ -37,11 +37,13 @@ layout: default
       <ul class="proj-list">
         {%- for proj in site.projects -%}
           <li>
-            <div class="thumbnail">
-            </div>
-            <div class="proj-info"><span class="proj-type">{{ proj.type }}</span>
-              <h2><a href="{{ proj.url }}">{{ proj.title }}</a></h2>
-            </div>
+            <a href="{{ proj.url }}">
+              <div class="thumbnail">
+              </div>
+              <div class="proj-info"><span class="proj-type">{{ proj.type }}</span>
+                <h2>{{ proj.title }}</h2>
+              </div>
+            </a>
           </li>
         {%- endfor -%}
       </ul>

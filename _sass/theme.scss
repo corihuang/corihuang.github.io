@@ -1,6 +1,6 @@
 @charset "utf-8";
 @import url("https://use.typekit.net/wxi1fsv.css");
-
+@import url("https://fonts.googleapis.com/css?family=Lato:400,300,700,300italic,400italic,700italic,900italic,900");
 
 // Define tokens
 $spacing: 16px;
@@ -26,13 +26,13 @@ $tracking-spacey: 1px;
 
 // Define defaults for each variable.
 
-$base-font-family: lato, -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$base-font-size:   16px !default;
+$base-font-family: "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$fontstack-base: lato, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$fontstack-base: "Lato", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 $fontstack-decorative: p22-mackinac-pro, freight-text-pro, ff-tisa-web-pro, Garamond, Georgia, serif;
 
 $spacing-unit:     30px !default;
