@@ -1,6 +1,6 @@
 ---
 title: Reimagining the Button Website
-type: product design
+type: design
 layout: project
 date: 2019-09-01
 ---

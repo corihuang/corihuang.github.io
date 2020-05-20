@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,300,700,300italic,400italic,700italic,900italic,900");
 
 // Define tokens
-$spacing: 16px;
+$spacing: 18px;
 $spacing-medium: $spacing * 2;
 $spacing-large: $spacing * 4;
 $radius-default: 4px;
@@ -17,7 +17,7 @@ $evergreen: #125B32;
 $slight-gray: #fdfdfd;
 $medium-gray: #ececee;
 $smoke: #4a4a4d;
-$carbon: #222;
+$carbon: #333;
 
 $tracking-slim: .25px;
 $tracking-medium: .5px;
@@ -29,6 +29,7 @@ $tracking-spacey: 1px;
 $base-font-family: "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
+$font-weight-heavy: 700;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 

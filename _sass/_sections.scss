@@ -35,9 +35,10 @@ section {
   }
   .proj-type {
     font-family: $fontstack-base;
-    font-weight: $base-font-weight * 1.5;
+    font-weight: $font-weight-heavy;
+    font-size: $small-font-size;
     text-transform: uppercase;
-    letter-spacing: .5px;
+    letter-spacing: $tracking-medium;
   }
 }
 
@@ -70,9 +71,6 @@ section {
   grid-template-rows: auto;
   gap: 16px;
   margin: 0;
-  @include media-query($on-palm) {
-    grid-template-columns: 1fr 1fr;
-  }
   .gallery-item {
     overflow: hidden;
     transition: filter .25s ease;
@@ -89,6 +87,12 @@ section {
     transition: all .25s ease-in-out;
     &:hover {
       filter: saturate(100%);
+    }
+  }
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr 1fr;
+    img {
+      filter: none;
     }
   }
 }
