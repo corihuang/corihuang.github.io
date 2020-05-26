@@ -4,7 +4,7 @@ title: Reading List
 permalink: /reading/
 ---
 
-These are some of the books and written content that I find enjoyable and have influenced the way I think.
+I think a lot about how we consume and create--the input to and output from our minds. These are some of the books and written content that I find enjoyable and have influenced the way I think.
 
 {% if site.data.books %}
   <ul class="book-list">

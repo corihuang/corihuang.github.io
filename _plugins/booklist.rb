@@ -11,7 +11,13 @@ isbnList = [
   "0374533555",
   "0571225381",
   "0060959479",
-  "9780785764038"
+  "9780785764038",
+  "9780191606717",
+  "9781466853447",
+  "9781455586660",
+  "9780385669757",
+  "9781101971444",
+  "9781583228036"
 ]
 
 book_url = "https://www.googleapis.com/books/v1/volumes?q="
@@ -31,4 +37,4 @@ file = File.new(dataLocation, "w")
 file.write(response)
 file.close
 
-puts "Generating book data"
+puts "\t Reading list: \t Generating book data"
