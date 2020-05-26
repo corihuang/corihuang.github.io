@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Booklist
-permalink: /booklist/
+title: Reading List
+permalink: /reading/
 ---
 
-This is a page with a list of books I've read.
+These are some of the books and written content that I find enjoyable and have influenced the way I think.
 
 {% if site.data.books %}
   <ul class="book-list">
