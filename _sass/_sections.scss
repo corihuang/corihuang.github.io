@@ -45,9 +45,8 @@ section {
 .more-projects-list {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 100px;
+  grid-template-rows: 132px;
   gap: 16px;
-  margin: 0;
   @include media-query($on-palm) {
     grid-template-columns: 1fr;
     grid-template-rows: auto;
@@ -62,6 +61,7 @@ section {
   a {
     color: #fff;
     font-family: $fontstack-decorative;
+    border: none;
   }
 }
 
@@ -70,7 +70,6 @@ section {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
   gap: 16px;
-  margin: 0;
   .gallery-item {
     overflow: hidden;
     transition: filter .25s ease;

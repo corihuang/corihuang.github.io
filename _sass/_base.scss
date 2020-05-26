@@ -71,11 +71,9 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
-
 h1, h2 {
   font-family: $fontstack-decorative;
 }
-
 h3, h4, h5, h6 {
   font-family: $fontstack-base;
 }
@@ -84,7 +82,7 @@ h3, h4, h5, h6 {
 /* Links */
 a {
   color: $brand-color;
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid;
   text-decoration: none;
   &:visited {
     color: darken($brand-color, 10%);
@@ -92,12 +90,6 @@ a {
   &:hover {
     color: $brand-color;
     border-bottom: 1px solid $brand-color;
-  }
-  .social-media-list &:hover {
-    text-decoration: none;
-    .username {
-      text-decoration: underline;
-    }
   }
 }
 
