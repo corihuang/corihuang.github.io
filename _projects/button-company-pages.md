@@ -38,6 +38,8 @@ For other target audiences, I asked our marketing team and sales team for input.
 
 I also gathered some usage data—page visits, device analytics, and such to understand what our audience was looking at already and have a benchmark around 
 
+![Grouping website content during a design workshop](/assets/img/button-company-1.jpeg)![Sharing design sketches during a design workshop](/assets/img/button-company-2.jpeg)
+
 **Design Workshop**
 
 With insights from the user interviews and the results of the gut check test, I ran a workshop with the whole team where we brainstormed the type of content we expected to see on the website, and some potential layouts—how would folks organize the info?

@@ -82,10 +82,8 @@ section {
     height: 100%;
     width: 100%;
     border-radius: 4px;
-    filter: saturate(75%);
     transition: all .25s ease-in-out;
     &:hover {
-      filter: saturate(100%);
     }
   }
   @include media-query($on-palm) {
