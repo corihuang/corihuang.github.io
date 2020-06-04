@@ -2,26 +2,6 @@
  "items": [
   {
    "volumeInfo": {
-    "title": "Severance",
-    "authors": [
-     "Ling Ma"
-    ],
-    "description": "Winner of the 2018 Kirkus Prize, A PEN/Hemingway and NYPL Young Lions Finalist, A New York Times Notable Book of 2018, An Indie Next Selection A Best Book of 2018 at Elle, Marie Claire, Refinery29, Bustle, Buzzfeed, BookPage, Bookish, Mental Floss, Chicago Review of Books, HuffPost, Electric Literature, Amazon Editors', A.V. Club, Jezebel, Vulture \"A fierce debut from a writer with seemingly boundless imagination. . . A stunning, audacious book with a fresh take on both office politics and what the apocalypse might bring.\" —Michael Schaub, NPR.org Maybe it’s the end of the world, but not for Candace Chen, a millennial, first-generation American and office drone meandering her way into adulthood in Ling Ma’s offbeat, wryly funny, apocalyptic satire, Severance. Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine. With the recent passing of her Chinese immigrant parents, she’s had her fill of uncertainty. She’s content just to carry on: She goes to work, troubleshoots the teen-targeted Gemstone Bible, watches movies in a Greenpoint basement with her boyfriend. So Candace barely notices when a plague of biblical proportions sweeps New York. Then Shen Fever spreads. Families flee. Companies cease operations. The subways screech to a halt. Her bosses enlist her as part of a dwindling skeleton crew with a big end-date payoff. Soon entirely alone, still unfevered, she photographs the eerie, abandoned city as the anonymous blogger NY Ghost. Candace won’t be able to make it on her own forever, though. Enter a group of survivors, led by the power-hungry IT tech Bob. They’re traveling to a place called the Facility, where, Bob promises, they will have everything they need to start society anew. But Candace is carrying a secret she knows Bob will exploit. Should she escape from her rescuers? A send-up and takedown of the rituals, routines, and missed opportunities of contemporary life, Ling Ma’s Severance is a moving family story, a quirky coming-of-adulthood tale, and a hilarious, deadpan satire. Most important, it’s a heartfelt tribute to the connections that drive us to do more than survive.",
-    "industryIdentifiers": [
-     {
-      "identifier": "9780374717117"
-     },
-     {
-      "identifier": "0374717117"
-     }
-    ],
-    "imageLinks": {
-     "thumbnail": "http://books.google.com/books/content?id=7vRFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    }
-   }
-  },
-  {
-   "volumeInfo": {
     "title": "The Stone Sky",
     "authors": [
      "N. K. Jemisin"
@@ -42,21 +22,21 @@
   },
   {
    "volumeInfo": {
-    "title": "The Three-Body Problem",
+    "title": "Severance",
     "authors": [
-     "Cixin Liu"
+     "Ling Ma"
     ],
-    "description": "\"Wildly imaginative, really interesting.\" —President Barack Obama on The Three-Body Problem trilogy The Three-Body Problem is the first chance for English-speaking readers to experience the Hugo Award-winning phenomenon from China's most beloved science fiction author, Liu Cixin. Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision. The Remembrance of Earth's Past Trilogy The Three-Body Problem The Dark Forest Death's End Other Books Ball Lightning (forthcoming) At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+    "description": "Winner of the 2018 Kirkus Prize, A PEN/Hemingway and NYPL Young Lions Finalist, A New York Times Notable Book of 2018, An Indie Next Selection A Best Book of 2018 at Elle, Marie Claire, Refinery29, Bustle, Buzzfeed, BookPage, Bookish, Mental Floss, Chicago Review of Books, HuffPost, Electric Literature, Amazon Editors', A.V. Club, Jezebel, Vulture \"A fierce debut from a writer with seemingly boundless imagination. . . A stunning, audacious book with a fresh take on both office politics and what the apocalypse might bring.\" —Michael Schaub, NPR.org Maybe it’s the end of the world, but not for Candace Chen, a millennial, first-generation American and office drone meandering her way into adulthood in Ling Ma’s offbeat, wryly funny, apocalyptic satire, Severance. Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine. With the recent passing of her Chinese immigrant parents, she’s had her fill of uncertainty. She’s content just to carry on: She goes to work, troubleshoots the teen-targeted Gemstone Bible, watches movies in a Greenpoint basement with her boyfriend. So Candace barely notices when a plague of biblical proportions sweeps New York. Then Shen Fever spreads. Families flee. Companies cease operations. The subways screech to a halt. Her bosses enlist her as part of a dwindling skeleton crew with a big end-date payoff. Soon entirely alone, still unfevered, she photographs the eerie, abandoned city as the anonymous blogger NY Ghost. Candace won’t be able to make it on her own forever, though. Enter a group of survivors, led by the power-hungry IT tech Bob. They’re traveling to a place called the Facility, where, Bob promises, they will have everything they need to start society anew. But Candace is carrying a secret she knows Bob will exploit. Should she escape from her rescuers? A send-up and takedown of the rituals, routines, and missed opportunities of contemporary life, Ling Ma’s Severance is a moving family story, a quirky coming-of-adulthood tale, and a hilarious, deadpan satire. Most important, it’s a heartfelt tribute to the connections that drive us to do more than survive.",
     "industryIdentifiers": [
      {
-      "identifier": "9781466853447"
+      "identifier": "9780374717117"
      },
      {
-      "identifier": "1466853441"
+      "identifier": "0374717117"
      }
     ],
     "imageLinks": {
-     "thumbnail": "http://books.google.com/books/content?id=ZrNzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     "thumbnail": "http://books.google.com/books/content?id=7vRFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
    }
   },
@@ -77,6 +57,26 @@
     ],
     "imageLinks": {
      "thumbnail": "http://books.google.com/books/content?id=_uzLqSN-iEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+   }
+  },
+  {
+   "volumeInfo": {
+    "title": "The Three-Body Problem",
+    "authors": [
+     "Cixin Liu"
+    ],
+    "description": "\"Wildly imaginative, really interesting.\" —President Barack Obama on The Three-Body Problem trilogy The Three-Body Problem is the first chance for English-speaking readers to experience the Hugo Award-winning phenomenon from China's most beloved science fiction author, Liu Cixin. Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision. The Remembrance of Earth's Past Trilogy The Three-Body Problem The Dark Forest Death's End Other Books Ball Lightning (forthcoming) At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+    "industryIdentifiers": [
+     {
+      "identifier": "9781466853447"
+     },
+     {
+      "identifier": "1466853441"
+     }
+    ],
+    "imageLinks": {
+     "thumbnail": "http://books.google.com/books/content?id=ZrNzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
    }
   },
