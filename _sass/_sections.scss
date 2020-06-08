@@ -12,7 +12,11 @@ section {
   li {
     .thumbnail {
       background-color: $evergreen;
-      padding: 16px;
+      img {
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+      }
     }
     a {
       border: none;
@@ -30,16 +34,17 @@ section {
       }
     }
     .proj-info {
-      padding: 16px;
+      padding: $spacing;
     }
   }
-  .proj-type {
-    font-family: $fontstack-base;
-    font-weight: $font-weight-heavy;
-    font-size: $small-font-size;
-    text-transform: uppercase;
-    letter-spacing: $tracking-medium;
-  }
+}
+
+.proj-type {
+  font-family: $fontstack-base;
+  font-weight: $font-weight-heavy;
+  font-size: $small-font-size;
+  text-transform: uppercase;
+  letter-spacing: $tracking-medium;
 }
 
 .more-projects-list {

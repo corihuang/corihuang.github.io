@@ -2,8 +2,8 @@
 title: Humanizing the Button Company Pages
 type: design
 layout: project
-date: 2019-04-01
-thumbnail: 
+date: 2020-04-01
+thumbnail: assets/img/button-company.jpg
 ---
 
 Company pages are sensitive things. Like other product and communication design problems, designing company pages is about giving the users (website visitors) the information they're looking for and the features they need (job applications, navigation, etc.). But company pages are also very much branding problems—employer branding in particular. What is this company like to work for? How do we showcase our company culture—the vision that we aspire to as well as the reality that we embody day to day? How do you capture culture in a webpage?
@@ -38,9 +38,9 @@ For other target audiences, I asked our marketing team and sales team for input.
 
 I also gathered some usage data—page visits, device analytics, and such to understand what our audience was looking at already and have a benchmark around 
 
-![Grouping website content during a design workshop](/assets/img/button-company-1.jpeg)![Sharing design sketches during a design workshop](/assets/img/button-company-2.jpeg)
-
 **Design Workshop**
+
+![Grouping website content during a design workshop](/assets/img/button-company-1.jpeg)![Sharing design sketches during a design workshop](/assets/img/button-company-2.jpeg)
 
 With insights from the user interviews and the results of the gut check test, I ran a workshop with the whole team where we brainstormed the type of content we expected to see on the website, and some potential layouts—how would folks organize the info?
 

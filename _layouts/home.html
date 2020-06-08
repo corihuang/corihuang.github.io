@@ -13,10 +13,12 @@ layout: default
     <section id="projects">
       <h2>Projects</h2>
       <ul class="proj-list">
-        {%- for proj in site.projects -%}
+        {%- assign projects = site.projects | reverse -%}
+        {%- for proj in projects -%}
           <li>
             <a href="{{ proj.url }}">
-              <div class="thumbnail">
+            <div class="thumbnail">
+              <img src="{{ proj.thumbnail }}" class="thumbnail" />
               </div>
               <div class="proj-info"><span class="proj-type">{{ proj.type }}</span>
                 <h2>{{ proj.title }}</h2>
