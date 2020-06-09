@@ -177,8 +177,7 @@
 }
 
 .post-title {
-  @include relative-font-size(2.5);
-  letter-spacing: -1px;
+  @include relative-font-size(2);
   line-height: $line-height-compact;
 
   @include media-query($on-laptop) {
@@ -190,7 +189,7 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    @include relative-font-size(2);
+    @include relative-font-size(1.5);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);

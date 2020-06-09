@@ -24,11 +24,9 @@ At this point there was no interface for survey management: each survey was manu
 The end goal was to have a tool in Kiip’s internal dashboard that enabled a team member to create surveys and manage existing surveys, effectively removing the engineering work from this step. If this was successful, we expected to increase the survey run rate and the number of responses collected.
 
 ## Defining the Product
-In defining requirements and scope, we wanted to fulfill the main objective while being able to ship a minimum viable product quickly. 
+In defining a minimum viable product, I first tried to constrain it to one page to force myself to stick to core functionality, but after walking through the user flow with the team, we quickly realized it needed to be structured into two parts in order to provide the core functionality and be able to store data cleanly. After all, being able to analyze the data afterwards was a key benefit for this product.
 
-At first, I tried to organize the core functionality into one page for simplicity, but after walking through the user flow with the team, we quickly realized it needed to be structured into two parts in order to provide the core functionality and be able to store data cleanly. After all, being able to analyze the data afterwards was a key benefit for this product.
-
-To constrain the scope, we limited editing capabilities and did not include advanced filtering or viewing capabilities. I also used existing UI components to maintain visual continuity.
+I also limited editing capabilities, did not include advanced filtering or viewing capabilities, and used existing UI components to maintain visual continuity.
 
 ## Solution
 

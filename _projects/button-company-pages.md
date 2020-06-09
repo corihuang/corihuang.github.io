@@ -26,9 +26,9 @@ Eng - web dev
 
 I didn't often work with the People Team. I knew that several team members were highly invested in the project, but I wasn't sure if they had a shared vision for the company web pages, so I started with a few alignment exercises for our kick off.
 
-**Gut Check Test** 
+**Aesthetic Alignment** 
 
-Aesthetic and vision alignment
+Since I was working with a new team of people who were invested in how the end result would look and feel, I started us off with a [Gut Check Test](http://goodkickoffmeetings.com/2010/04/the-20-second-gut-test/) to start a conversation around aesthetics. The test itself is fun, and what is really great is the resulting discussion. It provided an opportunity to start using the same terms to refer to visual patterns and styles so that feedback in the later stages would be clearer.
 
 **User Interviews and Metrics**
 

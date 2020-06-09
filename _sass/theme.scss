@@ -29,10 +29,14 @@ $line-height-compact: 1.25;
 // Define defaults for each variable.
 
 $base-font-family: "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $font-weight-heavy: 700;
-$small-font-size:  $base-font-size * 0.875 !default;
+$base-font-size:   18px !default;
+$font-size-base: 18px;
+$font-size-display: $font-size-base * 2.25;
+$font-size-big: $font-size-base * 2;
+$small-font-size:  $font-size-base * 0.875 !default;
+
 $base-line-height: 1.5 !default;
 
 $fontstack-base: "Lato", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;

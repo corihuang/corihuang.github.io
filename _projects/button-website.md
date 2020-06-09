@@ -1,5 +1,5 @@
 ---
-title: Reimagining the Button Website
+title: Reimagining the Button Brand and Website
 type: design
 layout: project
 date: 2019-09-01
