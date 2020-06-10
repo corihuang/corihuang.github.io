@@ -6,43 +6,48 @@ date: 2019-09-01
 thumbnail: /assets/img/button-site.jpg
 ---
 
-This is really multiple projects that I've combined here to better tell the story. This is a company branding and storytelling project and a website product design project.
+![Button homepage hero section](/assets/img/button-site-redesign.jpg)
 
-Button, like many startups and really most ideas in early stages, was figuring out its identity and product at the same time, while continuing to clarify the company mission. It's a confusing time because there's a lot of chicken-and-egg situations: how do you define a brand before you really understand the mission? How do you clarify your brand before you understand your audience? How do you connect with your audience before you have a product?
+This is really multiple projects that I've combined in order to tell the whole story. This is a company branding and storytelling project and a website product design project.
 
-### Outline
-- what - the Button branding had started to shift, and with a newly staffed marketing team, product messaging had also shifted and we needed to update the site to reflect these changes. 
-- so what - however, in the course of evaluating the old website, I identified some areas where the site was not addressing our target audience needs and were also not able to gain insight into the website performance
-- now what - took the opportunity to make sure visitors know that Button serves a two sided marketplace right away, so our target users can find the information they're looking for. redesign the navigation to give user holistic view of the site IA, and to optimize the primary "call to action" in the upper right
-- outcomes: reduced number of unqualified leads cluttering pipeline, increased time on site? integrated Fullstory for holistic metrics
+Button, like many startups and really most ideas in early stages, was figuring out its identity and product at the same time, while continuing to clarify the company mission. It's a confusing time because there's a lot of chicken-and-egg moments.
 
 ## Context
 In March of 2019 I worked on big redesign of the homepage. It was a blue sky project intended to explore a new visual branding direction and get our team out of a rut so we could rethink how to make Button look like the tech company that it is and wanted to look like. The redesign went well, and this project was the bigger overhaul that followed.
 
-### The Team
+**The Team**
 - VP of Marketing, business strategy and content
 - Marketing team, copywriting
 - CEO, CRO, CIO, stakeholders
 - Web developer, all things engineering
 - Me, design lead
 
-## Problems
+## Visual Identity
+The brand voice and message had been defined by the marketing team. I took that messaging and translated it into Button's visual identity. Button cannot be everything to everyone; the company is a tech company, and its product are for businesses that want to succeed in the mobile commerce space. We needed our target audience to know that on their first impression.
+
+## User Journey
 User feedback told use that folks usually ended up landing on our homepage after already having some context about Button, whether after talking to a sales rep or attending a conference event. However, once they got to the homepage they didn't know what to do next. The homepage messaging wasn't compelling enough to dive right into the next step, contacting sales, but it wasn't obvious where to go to learn more.
 
-In addition, Button is a two-sided platform (or three-sided depending on if you look at it is B2B or B2B2C), but the website didn't help our users understand where to go for their particular needs.
+**Multiple Audiences**
 
-Didn't know whether folks were logging into the dashboard from the marketing website or what they wanted to know about. We had Google Analytics data but didn't know user flows or whether folks were spending time on content. We were flying blind.
+![Button homepage layout](/assets/img/button-site-1.png)
 
-Button branding had started to evolve but the website wasn't up to date.
+Rethinking the information architecture for a two-sided marketplace. The Button website has four target audience groups, and by necessity we prioritized customers first. This was reflected in how we reworked the website navigation UI. According to user interviews and stakeholder input, users didn't always recognized which content was for them. To help users find the information most relevant to them, I added an element on the homepage that immediately gives the user the two sides of the marketplace. took the opportunity to make sure visitors know that Button serves a two sided marketplace right away, so our target users can find the information they're looking for. redesign the navigation to give user holistic view of the site IA, and to optimize the primary "call to action" in the upper right
 
-## Solutions
+As users navigate throughout the site, there is also a color shift between the different sections--the homepage and other default pages, the pages for Brands, pages for Publishers, and the company section.
+
+![Button site thumbnails showing color themes](/assets/img/button-site-3.jpg)
+
+
+## Outcomes
+reduced number of unqualified leads cluttering pipeline, integrated Fullstory for holistic metrics, qualitative user feedback positive and reflected desired brand messaging
 Nav redesign - based on business strategy input as well as rudimentary Google Analytics data.
 Incorporating more ways to dig into info from homepage
 Visual design overhaul to reinforce Brands/Pubs content
 Integrated Fullstory
 
+**What Came After**
 
-## What Came After
 As with any product, there were plenty improvements that we designated out of scope for the project, but wanted to address in a future iteration. The ones we later took on included:
 - Integrating Contentful so that select sections of website copy could be easily updated by the marketing team
 - Developing a resource center to curate white papers, industry news, and thought leadership content

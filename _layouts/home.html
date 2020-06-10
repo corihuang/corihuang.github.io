@@ -35,7 +35,8 @@ layout: default
       <section id="gallery">
         <h2>Gallery</h2>
         <div class="gallery-list">
-          {% for image in coll.files %}
+          {% assign gallery = coll.files |reverse %}
+          {% for image in gallery %}
             <div class="gallery-item">
               <a href="gallery/{{ image.name }}">
                 <img src="gallery/{{ image.name }}" />
