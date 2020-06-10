@@ -1,11 +1,13 @@
 title: Cori Huang
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Cori Huang is a designer who likes making websites and imagining other worlds.
+  Cori Huang is a designer who likes making websites and imagining new worlds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: corihuang
 github_username:  corihuang
+dribbble_username: corihuang
+linkedin_username: corihuang
 google_analytics: UA-32344410-1
 
 # Build settings

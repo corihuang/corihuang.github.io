@@ -44,7 +44,7 @@ I also gathered some usage data—page visits, device analytics, and such to und
 
 With insights from the user interviews and the results of the gut check test, I ran a workshop with the whole team where we brainstormed the type of content we expected to see on the website, and some potential layouts—how would folks organize the info?
 
-I pulled much of this framework from Brad Frosts' write up on [Establishing Design Direction](https://bradfrost.com/blog/post/establishing-design-direction/). Of course, things always look smoother on paper. The design workshop was challenging because we were crunched for time—in a meeting-heavy organization, finding a 2-3 hour block of time for 5-6 people is possibly the most challenging part of my job. I had to reschedule a few times. Additionally, for participants who aren't used to design or creative work, I had to help them frame the problem multiple times, whether by showing examples of web page sketches, or asking lots of prompting questions to get the brainstorm going.
+I used a modified version of the process from Brad Frosts' write up on [Establishing Design Direction](https://bradfrost.com/blog/post/establishing-design-direction/). Of course, things always look smoother on paper. The design workshop was challenging because we were crunched for time—in a meeting-heavy organization, finding a 2-3 hour block of time for 5-6 people is possibly the most challenging part of my job. I had to reschedule a few times. Additionally, for participants who aren't used to design or creative work, I had to help them frame the problem multiple times, whether by showing examples of web page sketches, or asking lots of prompting questions to get the brainstorm going.
 
 ## Visual Design and Results
 

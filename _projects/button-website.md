@@ -10,12 +10,6 @@ This is really multiple projects that I've combined here to better tell the stor
 
 Button, like many startups and really most ideas in early stages, was figuring out its identity and product at the same time, while continuing to clarify the company mission. It's a confusing time because there's a lot of chicken-and-egg situations: how do you define a brand before you really understand the mission? How do you clarify your brand before you understand your audience? How do you connect with your audience before you have a product?
 
-### Images to pull
-- homepage old
-- homepage new
-- pub/brand split UI
-- collected brand and pub pages
-
 ### Outline
 - what - the Button branding had started to shift, and with a newly staffed marketing team, product messaging had also shifted and we needed to update the site to reflect these changes. 
 - so what - however, in the course of evaluating the old website, I identified some areas where the site was not addressing our target audience needs and were also not able to gain insight into the website performance

@@ -120,6 +120,9 @@
     display: inline-block;
     margin: 0 $spacing / 2;
   }
+  a {
+    border-bottom: none;
+  }
 }
 
 .footer-col-wrapper {
@@ -153,7 +156,7 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing;
   }
 }
 
@@ -187,6 +190,27 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+
+  img {
+    margin-bottom: $spacing;
+
+    @media screen and (min-width: $on-laptop) {
+      max-width: calc(100% + #{$spacing * 3});
+      margin: 0 (-$spacing*1.5) $spacing;
+    }
+  }
+
+  .right {
+    max-width: calc(50%);
+    margin: 0 (-$spacing-medium) $spacing $spacing;
+    float: right;
+  }
+
+  .left {
+    max-width: calc(50%);
+    margin: 0 $spacing $spacing (-$spacing-medium) ;
+    float: left;
+  }
 
   h2 {
     @include relative-font-size(1.5);

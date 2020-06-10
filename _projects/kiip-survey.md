@@ -16,7 +16,7 @@ The Kiip team used the survey management tool to create, run, and organize surve
 - Marketing insights manager (user, stakeholder)
 - Front end and back end engineers
 
-Like other companies, Kiip’s business involves collecting data. Aside from collecting performance data, the company also runs surveys to actively gain user insights. The exciting thing is that in early trials, Kiip’s surveys had a remarkably high response rate, so the team wanted to increase the survey run rate.
+Like other companies, Kiip’s business depends on understanding users. Aside from analyzing performance data, the company also runs surveys to actively gain user insights. The exciting thing is that in early trials, Kiip’s surveys had a remarkably high response rate, so the team wanted to increase the survey run rate.
 
 At this point there was no interface for survey management: each survey was manually implemented and managed by an engineer. Obviously, this was a point of friction, and the team wanted a better way to manage the many surveys. I was tasked with improving this workflow, so I designed the user flow and visualized the interface for a survey management tool in the internal dashboard.
 
