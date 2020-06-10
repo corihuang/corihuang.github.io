@@ -3,7 +3,7 @@ title: Humanizing the Button Company Pages
 type: design
 layout: project
 date: 2020-04-01
-thumbnail: assets/img/button-company.jpg
+thumbnail: /assets/img/button-company.jpg
 ---
 
 Company pages are sensitive things. Like other product and communication design problems, designing company pages is about giving the users (website visitors) the information they're looking for and the features they need (job applications, navigation, etc.). But company pages are also very much branding problems—employer branding in particular. What is this company like to work for? How do we showcase our company culture—the vision that we aspire to as well as the reality that we embody day to day? How do you capture culture in a webpage?
@@ -22,7 +22,7 @@ Marketing Team - Content Strategy, Comms Manager
 
 Eng - web dev
 
-## What I Did — Aligning a New Team
+## Aligning a New Team
 
 I didn't often work with the People Team. I knew that several team members were highly invested in the project, but I wasn't sure if they had a shared vision for the company web pages, so I started with a few alignment exercises for our kick off.
 
@@ -48,7 +48,7 @@ I pulled much of this framework from Brad Frosts' write up on [Establishing Desi
 
 ## Visual Design and Results
 
-With all the hard-earned inputs in hand, I sat down to review sketches and synthesize information. I put together the page layouts and held two review sessions with stakeholders. This part actually went really well. Front loading the alignment exercises meant my designs hit the mark with the team, and when folks gave feedback, they were very clear and used words we'd all heard before.
+All the hard-earned inputs provided some raw ideas for when I put together the page layouts. Front loading the alignment exercises helped make the stakeholder reviews at this stage smoother. The designs reflected the goals and decisions we discussed, and when folks gave feedback, they drew from the vocabulary and discussions from earlier to communicate clearly.
 
 The web developer, Jeff, built out my designs in small pieces so that we could roll out small changes quickly and monitor for any bugs or performance changes.
 

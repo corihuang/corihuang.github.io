@@ -3,8 +3,13 @@ title: Reimagining the Button Brand and Website
 type: design
 layout: project
 date: 2019-09-01
-thumbnail: assets/img/button-site.jpg
+thumbnail: /assets/img/button-site.jpg
 ---
+
+This is really multiple projects that I've combined here to better tell the story. This is a company branding and storytelling project and a website product design project.
+
+Button, like many startups and really most ideas in early stages, was figuring out its identity and product at the same time, while continuing to clarify the company mission. It's a confusing time because there's a lot of chicken-and-egg situations: how do you define a brand before you really understand the mission? How do you clarify your brand before you understand your audience? How do you connect with your audience before you have a product?
+
 ### Images to pull
 - homepage old
 - homepage new

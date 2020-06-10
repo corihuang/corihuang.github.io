@@ -3,7 +3,7 @@ title: Migrating the Button Team to Figma
 type: designops
 layout: project
 date: 2019-04-01
-thumbnail: assets/img/button-ops.jpg
+thumbnail: /assets/img/button-ops.jpg
 ---
 
 Managing change and improving processes

@@ -3,7 +3,7 @@ title: Creating An Interface to Manage Surveys
 type: design
 layout: project
 date: 2016-03-01
-thumbnail: assets/img/kiip-survey.jpg
+thumbnail: /assets/img/kiip-survey.jpg
 ---
 
 The Kiip team used the survey management tool to create, run, and organize surveys on the Kiip network, collecting over 20 million non-incentivized responses in its first year. The resulting data provides key audience insights to guide the business as well as a valuable data revenue stream.
