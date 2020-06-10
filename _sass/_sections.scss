@@ -32,6 +32,13 @@ section {
       &:hover {
         transform: translateY(-2px);
       }
+      &:active {
+        transform: none;
+      }
+      @include media-query($on-palm) {
+        grid-template-columns: 1fr;
+        grid-template-rows: 3fr 2fr;
+      }
     }
     .proj-info {
       padding: $spacing;
@@ -50,28 +57,39 @@ section {
 .more-projects-list {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 140px;
-  gap: 16px;
-  @include media-query($on-palm) {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto;
-  }
+  grid-template-rows: 132px;
+  gap: $spacing;
   div {
     background-color: $evergreen;
     background-size: cover;
+    background-position: center center;
+    box-shadow: $depth-default;
     border-radius: $radius-default;
     text-align: center;
     vertical-align: middle;
-    min-height: 100%;
-    padding: $spacing
+    height: 100%;
+    padding: $spacing;
   }
   a {
     color: #fff;
     font-family: $fontstack-decorative;
     border: none;
-    box-shadow: $depth-default;
     &:hover {
       transform: translateY(-2px);
+    }
+    &:active {
+      transform: none;
+    }
+  }
+  @include media-query($on-palm) {
+    display: block;
+    margin-bottom: -$spacing;
+    div {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: $spacing;
+      min-height: 100px;
     }
   }
 }
