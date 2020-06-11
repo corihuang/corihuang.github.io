@@ -8,10 +8,10 @@ thumbnail: /assets/img/kiip-survey.jpg
 
 The Kiip team used the survey management tool to create, run, and organize surveys on the Kiip network, collecting over 20 million non-incentivized responses in its first year. The resulting data provides key audience insights to guide the business as well as a valuable data revenue stream.
 
----
+![Three phones showing the Kiip survey UI on a phone](/assets/img/kiip-survey-1.png)
 
 **Team**
-- Me, design
+- Me, designer
 - Product manager
 - Marketing insights manager (user, stakeholder)
 - Front end and back end engineers

@@ -162,26 +162,6 @@
   },
   {
    "volumeInfo": {
-    "title": "The Foundations of Buddhism",
-    "authors": [
-     "Rupert Gethin"
-    ],
-    "description": "Buddhism is a vast and complex religious and philosophical tradition with a history that stretches over 2,500 years, and which is now followed by around 115 million people. In this introduction to the foundations of Buddhism, Rupert Gethin concentrates on the ideas and practices which constitute the common heritage of the different traditions of Buddhism (Thervada, Tibetan, and Eastern) which exist in the world today. From the narrative of the story of the Buddha, through discussions of aspects such as textual traditions, the framework of the Four Noble Truths, the interaction between the monastic and lay ways of life, the cosmology of karma and rebirth, and the path of the bodhisattva, this books provides a stimulating introduction to Buddhism as a religion and way of life, which will also be of interest to those who are more familiar with the subject.",
-    "industryIdentifiers": [
-     {
-      "identifier": "9780191606717"
-     },
-     {
-      "identifier": "0191606715"
-     }
-    ],
-    "imageLinks": {
-     "thumbnail": "http://books.google.com/books/content?id=al_Wlh2mwWIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    }
-   }
-  },
-  {
-   "volumeInfo": {
     "title": "The Obelisk Gate",
     "authors": [
      "N. K. Jemisin"
@@ -217,6 +197,26 @@
     ],
     "imageLinks": {
      "thumbnail": "http://books.google.com/books/content?id=J0tIAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+   }
+  },
+  {
+   "volumeInfo": {
+    "title": "The Foundations of Buddhism",
+    "authors": [
+     "Rupert Gethin"
+    ],
+    "description": "Buddhism is a vast and complex religious and philosophical tradition with a history that stretches over 2,500 years, and which is now followed by around 115 million people. In this introduction to the foundations of Buddhism, Rupert Gethin concentrates on the ideas and practices which constitute the common heritage of the different traditions of Buddhism (Thervada, Tibetan, and Eastern) which exist in the world today. From the narrative of the story of the Buddha, through discussions of aspects such as textual traditions, the framework of the Four Noble Truths, the interaction between the monastic and lay ways of life, the cosmology of karma and rebirth, and the path of the bodhisattva, this books provides a stimulating introduction to Buddhism as a religion and way of life, which will also be of interest to those who are more familiar with the subject.",
+    "industryIdentifiers": [
+     {
+      "identifier": "9780191606717"
+     },
+     {
+      "identifier": "0191606715"
+     }
+    ],
+    "imageLinks": {
+     "thumbnail": "http://books.google.com/books/content?id=al_Wlh2mwWIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
    }
   },
