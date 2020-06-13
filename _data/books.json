@@ -82,26 +82,6 @@
   },
   {
    "volumeInfo": {
-    "title": "Bloodchild and Other Stories",
-    "authors": [
-     "Octavia E. Butler"
-    ],
-    "description": "A perfect introduction for new readers and a must-have for avid fans, this New York Times Notable Book includes \"Bloodchild,\" winner of both the Hugo and the Nebula awards and \"Speech Sounds,\" winner of the Hugo Award. Appearing in print for the first time, \"Amnesty\" is a story of a woman named Noah who works to negotiate the tense and co-dependent relationship between humans and a species of invaders. Also new to this collection is \"The Book of Martha\" which asks: What would you do if God granted you the ability—and responsibility—to save humanity from itself? Like all of Octavia Butler’s best writing, these works of the imagination are parables of the contemporary world. She proves constant in her vigil, an unblinking pessimist hoping to be proven wrong, and one of contemporary literature’s strongest voices.",
-    "industryIdentifiers": [
-     {
-      "identifier": "9781583228036"
-     },
-     {
-      "identifier": "1583228039"
-     }
-    ],
-    "imageLinks": {
-     "thumbnail": "http://books.google.com/books/content?id=_uzLqSN-iEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    }
-   }
-  },
-  {
-   "volumeInfo": {
     "title": "The Three-Body Problem",
     "authors": [
      "Cixin Liu"
@@ -117,6 +97,26 @@
     ],
     "imageLinks": {
      "thumbnail": "http://books.google.com/books/content?id=ZrNzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+   }
+  },
+  {
+   "volumeInfo": {
+    "title": "Bloodchild and Other Stories",
+    "authors": [
+     "Octavia E. Butler"
+    ],
+    "description": "A perfect introduction for new readers and a must-have for avid fans, this New York Times Notable Book includes \"Bloodchild,\" winner of both the Hugo and the Nebula awards and \"Speech Sounds,\" winner of the Hugo Award. Appearing in print for the first time, \"Amnesty\" is a story of a woman named Noah who works to negotiate the tense and co-dependent relationship between humans and a species of invaders. Also new to this collection is \"The Book of Martha\" which asks: What would you do if God granted you the ability—and responsibility—to save humanity from itself? Like all of Octavia Butler’s best writing, these works of the imagination are parables of the contemporary world. She proves constant in her vigil, an unblinking pessimist hoping to be proven wrong, and one of contemporary literature’s strongest voices.",
+    "industryIdentifiers": [
+     {
+      "identifier": "9781583228036"
+     },
+     {
+      "identifier": "1583228039"
+     }
+    ],
+    "imageLinks": {
+     "thumbnail": "http://books.google.com/books/content?id=_uzLqSN-iEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
    }
   },
@@ -262,6 +262,26 @@
   },
   {
    "volumeInfo": {
+    "title": "The Dispossessed",
+    "authors": [
+     "Ursula K. Le Guin"
+    ],
+    "description": "An astonishing tale of one man's search for Utopia.",
+    "industryIdentifiers": [
+     {
+      "identifier": "0785764038"
+     },
+     {
+      "identifier": "9780785764038"
+     }
+    ],
+    "imageLinks": {
+     "thumbnail": "http://books.google.com/books/content?id=M45vPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+   }
+  },
+  {
+   "volumeInfo": {
     "title": "The Phoenix Project",
     "authors": [
      "Gene Kim",
@@ -299,26 +319,6 @@
     ],
     "imageLinks": {
      "thumbnail": "http://books.google.com/books/content?id=RtWDngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    }
-   }
-  },
-  {
-   "volumeInfo": {
-    "title": "The Dispossessed",
-    "authors": [
-     "Ursula K. Le Guin"
-    ],
-    "description": "An astonishing tale of one man's search for Utopia.",
-    "industryIdentifiers": [
-     {
-      "identifier": "0785764038"
-     },
-     {
-      "identifier": "9780785764038"
-     }
-    ],
-    "imageLinks": {
-     "thumbnail": "http://books.google.com/books/content?id=M45vPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     }
    }
   }
