@@ -2,7 +2,7 @@
 title: Creating An Interface to Manage Surveys
 type: design
 layout: project
-date: 2016-03-01
+date: 2016-06-01
 thumbnail: /assets/img/kiip-survey.jpg
 ---
 

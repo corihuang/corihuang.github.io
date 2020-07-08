@@ -22,6 +22,8 @@ collections:
     output: true
   gallery:
     output: true
+  workshop:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

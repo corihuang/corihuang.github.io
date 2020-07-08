@@ -56,7 +56,7 @@ Based on positive feedback from the design team and our collaborators, the trans
 
 [![Button Design System banner](/assets/img/button-design-system.png)](https://blog.usebutton.com/introducing-the-button-design-system)
 
-### What Did I Learn?
+**What Did I Learn?**
 
 Every project comes with lessons. I learned to better anticipate others' needs and keep people involved during changes.
 

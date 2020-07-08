@@ -2,7 +2,7 @@
 title: Humanizing the Button Company Pages
 type: design
 layout: project
-date: 2020-04-01
+date: 2019-10-01
 thumbnail: /assets/img/button-company.jpg
 ---
 

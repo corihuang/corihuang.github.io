@@ -2,7 +2,7 @@
 title: Reimagining the Button Brand and Website
 type: design
 layout: project
-date: 2019-09-01
+date: 2019-11-01
 thumbnail: /assets/img/button-site.jpg
 ---
 
