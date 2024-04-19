@@ -1,6 +1,9 @@
 @charset "utf-8";
 @import url("https://use.typekit.net/wxi1fsv.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,300,700,300italic,400italic,700italic,900italic,900");
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
 
 // Define tokens
 $spacing: 18px;
@@ -18,6 +21,7 @@ $slight-gray: #fdfdfd;
 $medium-gray: #ececee;
 $smoke: #4a4a4d;
 $carbon: #333;
+$slate: #142B48;
 
 $tracking-slim: .25px;
 $tracking-medium: .5px;
@@ -28,23 +32,23 @@ $line-height-compact: 1.25;
 
 // Define defaults for each variable.
 
-$base-font-family: "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$base-font-weight: 400 !default;
-$font-weight-heavy: 700;
-$base-font-size:   18px !default;
-$font-size-base: 18px;
+$base-font-family: "Rooney", "Lato", -apple-system-font, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$base-font-weight: 300 !default;
+$font-weight-heavy: 600;
+$base-font-size:   20px !default;
+$font-size-base: 20px;
 $font-size-display: $font-size-base * 2.25;
 $font-size-big: $font-size-base * 2;
 $small-font-size:  $font-size-base * 0.875 !default;
 
 $base-line-height: 1.5 !default;
 
-$fontstack-base: "Lato", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-$fontstack-decorative: p22-mackinac-pro, freight-text-pro, ff-tisa-web-pro, Garamond, Georgia, serif;
+$fontstack-base: "Rooney", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$fontstack-decorative: "Rooney", freight-text-pro, ff-tisa-web-pro, Garamond, Georgia, serif;
 
 $spacing-unit:     30px !default;
 
-$text-color:       $carbon !default;
+$text-color:       $slate !default;
 $background-color: $slight-gray !default;
 $brand-color:      $evergreen !default;
 
@@ -55,7 +59,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1080px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;

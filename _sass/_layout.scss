@@ -15,9 +15,9 @@
   @include relative-font-size(2);
   border: none;
   font-family: $fontstack-decorative;
-  font-weight: $base-font-weight;
+  font-weight: $font-weight-heavy;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  // letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
   &,
@@ -134,6 +134,15 @@
   gap: $spacing;
 }
 
+/**
+ * Index page
+ */
+.home>h2 {
+  @include relative-font-size(1.25);
+  line-height: $line-height-compact;
+  font-weight:$font-weight-heavy;
+}
+
 
 /**
  * Page content
@@ -143,9 +152,6 @@
   flex: 1;
 }
 
-.page-heading {
-  @include relative-font-size(2);
-}
 
 .post-list-heading {
   @include relative-font-size(1.75);
@@ -181,6 +187,7 @@
 
 .post-title {
   @include relative-font-size(2);
+  font-weight: $font-weight-heavy;
   line-height: $line-height-compact;
 
   @include media-query($on-laptop) {
