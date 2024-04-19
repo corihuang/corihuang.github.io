@@ -42,3 +42,6 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+keep_files:
+- _site/fridge
