@@ -47,7 +47,7 @@
 
   @include media-query($on-palm) {
     position: absolute;
-    right: $spacing-unit / 2;
+    right: calc($spacing-unit / 2);
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
@@ -118,7 +118,7 @@
   margin-left: 0;
   li {
     display: inline-block;
-    margin: 0 $spacing / 2;
+    margin: 0 calc($spacing / 2);
   }
   a {
     border-bottom: none;
