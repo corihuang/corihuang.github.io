@@ -68,13 +68,17 @@ li {
 
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
+  font-weight: $font-weight-heavy;
+}
+
+h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
-h1, h2 {
+h1 {
   font-family: $fontstack-decorative;
 }
-h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   font-family: $fontstack-base;
 }
 
