@@ -12,10 +12,10 @@ section {
   li {
     .thumbnail {
       background-color: $evergreen;
+      height: 200px;
+      width: 320px;
       img {
         object-fit: cover;
-        height: 100%;
-        width: 100%;
       }
     }
     a {

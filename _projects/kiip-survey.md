@@ -4,11 +4,12 @@ type: design @ Kiip
 layout: project
 date: 2016-03-01
 thumbnail: /assets/img/kiip-survey.jpg
+published: false
 ---
 
 The Kiip team used the survey management tool to create, run, and organize surveys on the Kiip network, collecting over 20 million non-incentivized responses in its first year. The resulting data provides key audience insights to guide the business as well as a valuable data revenue stream.
 
-![Three phones showing the Kiip survey UI on a phone](/assets/img/kiip-survey-1.png)
+![Three phones showing the Kiip survey UI on a phone](/assets/img/kiip-survey-1.png){: .img-full}
 
 **Team**
 - Me, designer
@@ -31,13 +32,13 @@ I also limited editing capabilities, did not include advanced filtering or viewi
 ## Solution
 
 **View and manage existing surveys**
-![Survey management screen](/assets/img/kiip-survey-manage.png)
+![Survey management screen](/assets/img/kiip-survey-manage.png){: .img-full}
 This was an overview page with an accordion of all the surveys. There was a lot of data that needed to be organized on this screen so the user could see the most important information right away.
 
 The top level showed the survey name, active or inactive status, number of responses, tags, and dates. In the expanded view, the user could see a preview of the survey with questions visible and targeting options, along with the top level info.
 
 **Create new surveys**
-![New survey screen](/assets/img/kiip-survey-create.png)
+![New survey screen](/assets/img/kiip-survey-create.png){: .img-full}
 To address the concern with data entry and organization, we broke down the survey creation into 3 steps:
 - A create survey form
 - A question list tracking question and answer option sets

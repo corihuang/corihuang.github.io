@@ -6,7 +6,7 @@ date: 2019-09-01
 thumbnail: /assets/img/button-site.jpg
 ---
 
-![Button homepage hero section](/assets/img/button-site-redesign.png)
+![Button homepage hero section](/assets/img/button-site-redesign.png){: .img-full}
 
 This is a company branding and storytelling project and a website design project. I've combined them to better tell the story. 
 
@@ -24,7 +24,7 @@ The marketing team had already done a lot of work defining Button's brand voice-
 
 In March of 2019 I redesigned the Usebutton.com homepage. It was a blue sky project intended to experiment with a new visual branding direction that would show Button as the tech company that it is. The redesign incorporated bolder colors, illustrations to visualize Button's technology, and clearer messaging.
 
-![Old and experimental versions of the Button homepage](/assets/img/button-site-compare1.png)
+![Old and experimental versions of the Button homepage](/assets/img/button-site-compare1.png){: .img-full}
 
 After the page went live, I tested with users to understand how they described Button based on the way the site looked. I identified areas for improvement as we addressed the rest of the website. At this point, I also took a first pass at codifying the new visual language so others could understand and use Button's visual identity too. This was also key to be able to art direct illustrators who helped with the rest of the website.
 
@@ -35,18 +35,18 @@ Additionally, Button has four target audiences, and while it's easy to tailor in
 
 **Translating into the design**
 
-![Button homepage layout](/assets/img/button-site-1.png)
+![Button homepage layout](/assets/img/button-site-1.png){: .img-full}
 
 To give the visitor the lay of the land easily, I redesigned the navigation UI to give the user a holistic view of the site structure as well as descriptive information. The megamenu pattern is also common among B2B companies, so I was confident it would be easy for users to understand. I also added an area on the homepage that immediately describes the two sides of the marketplace to the user, with the assumption that the user likely already knows which side they are interested in.
 
 As users navigate throughout the site, there is also a color shift between the different sections--the homepage and other default pages, the pages for Brands, pages for Publishers, and the company section. Again, with content for various audiences, it was important to give cues to visitors as to where they were.
 
-![Button site thumbnails showing color themes](/assets/img/button-site-3.jpg)
+![Button site thumbnails showing color themes](/assets/img/button-site-3.jpg){: .img-full}
 
 ## Outcomes
 Typically, metrics for a marketing site are around traffic volume and conversion rate. For this project though, we wanted to improve the quality of the conversion. Rather than wanting every visitor to contact sales and clutter the pipeline, we wanted more qualified leads to contact sales. We measured this based on number of leads that met the marketing team's criteria. I was also looking for qualitative user feedback and no increase in usability issues based on Fullstory analytics.
 
-![Three versions of the Button website homepage](/assets/img/button-site-compare2.png)
+![Three versions of the Button website homepage](/assets/img/button-site-compare2.png){: .img-full}
 
 **What Came After**
 

@@ -25,7 +25,7 @@ There’s abundant info on why to switch to Figma and what to expect when switch
 
 This is a no-brainer for any project, but when it comes to workflow changes, it's easy to talk about changes that never happen. To make sure we didn't sit in inertia, I made a spreadsheet with explicit action items, owners, and due dates for testing software, making decisions, migrating our services, and communicating.
 
-![A boring old spreadsheet and doc in Dropbox Paper for the migration](/assets/img/figma-migration-1@2x.png)
+![A boring old spreadsheet and doc in Dropbox Paper for the migration](/assets/img/figma-migration-1@2x.png){: .img-full}
 
 **Document Clearly**
 
@@ -34,7 +34,7 @@ Keeping a matrix also helped the team prioritize needs and avoid getting overwhe
 
 **Bring Others Along**
 
-![Collecting an sorting feedback with the design team](/assets/img/figma-migration-2.jpg)
+![Collecting an sorting feedback with the design team](/assets/img/figma-migration-2.jpg){: .img-full}
 
 Button is a highly collaborative company, so it was important to communicate proactively and provide a feedback channel for those who might be impacted. I gave presentations to the product, engineering, and marketing teams so folks had a sense of the what and why and had a chance to ask questions. Regular email updates and requests for feedback kept communication channels open, and speaking to different folks in person helped me fill blind spots in the transition plan, such as scheduling training for collaborators to set up their accounts.
 
@@ -54,7 +54,7 @@ The benefits of moving to Figma are well documented on the internet.
 
 Based on positive feedback from the design team and our collaborators, the transition was successful, and we realized these benefits. After we had Figma set up, I also brought in Zeroheight as our design system documentation tool since it integrates easily and stays up to date. [Read more about the Button Design System in this blog post.](https://blog.usebutton.com/introducing-the-button-design-system)
 
-[![Button Design System banner](/assets/img/button-design-system.png)](https://blog.usebutton.com/introducing-the-button-design-system)
+[![Button Design System banner](/assets/img/button-design-system.png)](https://blog.usebutton.com/introducing-the-button-design-system){: .img-full}
 
 ### What Did I Learn?
 

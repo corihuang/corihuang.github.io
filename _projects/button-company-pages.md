@@ -10,7 +10,7 @@ I collaborated with Button's People Team to redesign several webpages that share
 
 The goal of the website was appealing to potential candidate, press, and investors and making it easier to navigate content.
 
-![About Button webpage](/assets/img/button-company-1.png)
+![About Button webpage](/assets/img/button-company-1.png){: .img-full}
 
 **Team**
 
@@ -33,7 +33,7 @@ I leveraged our recruiting team to ask candidates 2-3 lightweight questions, wit
 
 **Design Workshop**
 
-![Grouping website content during a design workshop](/assets/img/button-company-1.jpeg)![Sharing design sketches during a design workshop](/assets/img/button-company-2.jpeg)
+![Grouping website content during a design workshop](/assets/img/button-company-1.jpeg)![Sharing design sketches during a design workshop](/assets/img/button-company-2.jpeg){: .img-full}
 
 With insights from the user interviews and the results of the Gut Check Test, I ran a workshop with the team to brainstorm the type of content we expected to see on the website, and some potential layouts-—how might folks organize the info?
 
@@ -41,13 +41,13 @@ I used a modified version of the process from Brad Frosts' write up on [Establis
 
 ## Visual Design and Results
 
-![About Button webpage](/assets/img/button-company-2.png)
+![About Button webpage](/assets/img/button-company-2.png){: .img-full}
 
 All the hard-earned inputs provided great raw ideas for when I put together the page layouts. Front loading the alignment exercises helped make the stakeholder reviews at this stage smoother. The designs reflected the goals and decisions we discussed, and when folks gave feedback, they drew from the vocabulary and discussions from earlier to communicate clearly.
 
 One of the deliverables included fun icons to represent the employee benefits. I created some of these and art directed others created by [Jessica Braga](http://jessicabraga.com/).
 
-![Fun icons to represent some of the employee benefits package](/assets/img/button-company-icons.png)
+![Fun icons to represent some of the employee benefits package](/assets/img/button-company-icons.png){: .img-full}
 
 The web developer, Jeff, built out my designs in small pieces so that we could roll out small changes quickly and monitor for any bugs or performance changes.
 

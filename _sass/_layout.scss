@@ -197,7 +197,7 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  img {
+  .img-full {
     margin-bottom: $spacing;
 
     @media screen and (min-width: $on-laptop) {
@@ -240,5 +240,24 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+}
+
+/**
+* Image grids in posts
+**/
+
+.img-grid {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-bottom: $spacing-large;
+}
+
+.img-grid-item {
+  width: 45%;
+  max-width: 400px;
+  @media screen and (min-width: $on-laptop) {
+    width: 30%;
   }
 }

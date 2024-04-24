@@ -1,0 +1,11 @@
+{% comment %}-----------------
+  - This page receives a gallery index (include.gallery)
+  - It then assign the gallery[include.gallery] to the rows variable
+%}-----------------{% endcomment %}
+{% assign gallery = page.galleries[include.gallery] %}
+
+<div class="img-grid">
+    {% for img in gallery %}
+    <img src="{{ site.baseurl }}{{ img.url }}" alt="{{ img.alt }}" class="img-grid-item" />
+    {% endfor %}
+</div>
